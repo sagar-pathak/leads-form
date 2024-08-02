@@ -21,3 +21,10 @@ A login page will be displayed by default. The dummyapi is used for login and tr
 3. Click on the Login button to redirect to the dashboard page where the leads table is populated with the dummy data. 
 
 
+## Note
+1. There are still some things that need work. I think we can discuss them on the call.
+
+Thanks,
+Sagar Pathak
+(sagarpaathak@gmail.com)
+
