@@ -1,0 +1,9 @@
+{
+    "type": "object",
+    "properties": {
+        "description": {
+            "title": "Long Description",
+            "type": "string"
+          }
+    }
+}

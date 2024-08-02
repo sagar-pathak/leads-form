@@ -1,0 +1,17 @@
+{
+    "type": "object",
+    "properties": {
+        "o1": {
+            "type": "boolean"
+        },
+        "eb1a": {
+            "type": "boolean"
+        },
+        "eb2niw": {
+            "type": "boolean"
+        },
+        "idk": {
+            "type": "boolean"
+        }
+    }
+}

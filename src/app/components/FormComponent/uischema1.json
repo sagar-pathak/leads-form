@@ -1,0 +1,25 @@
+{
+    "type": "VerticalLayout",
+    "elements": [
+        {
+            "type": "Control",
+            "label": "O-1",
+            "scope": "#/properties/o1"
+        },
+        {
+            "type": "Control",
+            "label": "EB-1A",
+            "scope": "#/properties/eb1a"
+        },
+        {
+            "type": "Control",
+            "label": "EB-2 NIW",
+            "scope": "#/properties/eb2niw"
+        },
+        {
+            "type": "Control",
+            "label": "I don't know",
+            "scope": "#/properties/idk"
+        }
+    ]
+}

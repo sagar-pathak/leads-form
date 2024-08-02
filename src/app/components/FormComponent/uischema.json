@@ -1,0 +1,26 @@
+{
+    "type": "VerticalLayout",
+    "elements": [
+      {
+        "type": "Control",
+        "scope": "#/properties/firstname"
+      },
+      {
+        "type": "Control",
+        "scope": "#/properties/lastname"
+      },
+      {
+        "type": "Control",
+        "scope": "#/properties/email"
+      },
+      {
+        "type": "Control",
+        "scope": "#/properties/country"
+      },
+      {
+        "type": "Control",
+        "scope": "#/properties/linkedin"
+      }
+    ]
+  }
+  

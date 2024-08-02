@@ -1,0 +1,29 @@
+{
+    "type": "object",
+    "properties": {
+        "firstname": {
+            "type": "string"
+        },
+        "lastname": {
+            "type": "string"
+        },
+        "email": {
+            "type": "string"
+        },
+        "country": {
+            "type": "string",
+            "label": "Country of Citizenship",
+            "enum": [
+                "China",
+                "Nepal",
+                "India",
+                "Japan",
+                "Other"
+            ]
+        },
+        "linkedin": {
+            "type": "string"
+        }
+    },
+    "required": []
+}
